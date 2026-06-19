@@ -101,7 +101,7 @@
         ],
         "syntax": {
           "boolean": {
-            "color": "#79c0ff",
+            "color": "#749fc4",
             "font_style": null,
             "font_weight": null
           },
@@ -161,7 +161,7 @@
             "font_weight": null
           },
           "number": {
-            "color": "#79c0ff",
+            "color": "#749fc4",
             "font_style": null,
             "font_weight": null
           },
